@@ -1,0 +1,8 @@
+crewai
+fastapi
+uvicorn
+celery
+redis
+python-dotenv
+langchain-community
+pypdf
